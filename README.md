@@ -1,4 +1,4 @@
-# INFM600-irinya
+# INFM600 Information Organization
 Initial data
 ------------
 The data set on Bus ridership was chosen to be a focal data set, as I find improving public transportation one of the most interesting topics in regard to community sustainability and global environmental situation.

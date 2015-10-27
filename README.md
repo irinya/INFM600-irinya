@@ -25,4 +25,6 @@ Yakubinskaya, I. V. (2015, October). [MTA_Rail_and_RTA_Fixed_Route_Ridership_com
 
 For further analysis we could combine our focal data set on bus ridership with *Bus complaints* data set. Its part on fixed routes would be the most useful. Do numbers of complaints correspond with higher or lower ridership? Or no relationship could be observed? We might find what affected the use or how can we improve the service.
 
+License
+-------
 The data in the INFM600_irinya repository is distributed under a Creative Commons Attribution 4.0 International License.

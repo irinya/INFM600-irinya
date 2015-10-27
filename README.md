@@ -1,7 +1,7 @@
 # INFM600-irinya
 The data set on Bus ridership was chosen to be a focal data set, as I find improving public transportation one of the most interesting topics in regard to community sustainability and global environmental situation.
 
-**Bus ridership**. File - RTA_Fixed_Route_Ridership.xlsx
+**Bus ridership**. File - RTA_Fixed_Route_Ridership.xlsx  
 The data set shows bus routes ridership by month for the period of time from July 2014 to June 2015. There are 15 routes presented. All the routes are operated by the Regional Transportation Agency of Central Maryland (RTA).
 Howard County Data Portal OpenHoward. (2015). *RTA Fixed Route Ridership* [Data set]. Retrieved from https://opendata.howardcountymd.gov/Transportation/RTA-Fixed-Route-Ridership/e43t-ah6g
 

@@ -34,4 +34,4 @@ For further analysis we could combine our focal data set on bus ridership with *
 
 License
 -------
-The data in the INFM600_irinya repository is distributed under a Creative Commons Attribution 4.0 International License.
+The data in the INFM600-irinya repository is distributed under a Creative Commons Attribution 4.0 International License.

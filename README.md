@@ -1,4 +1,6 @@
 # INFM600-irinya
+Initial data
+------------
 The data set on Bus ridership was chosen to be a focal data set, as I find improving public transportation one of the most interesting topics in regard to community sustainability and global environmental situation.
 
 **Bus ridership**. File - RTA_Fixed_Route_Ridership.xlsx  
@@ -15,6 +17,8 @@ Maryland State Department of Information Technology, Open Data Portal. (2014). *
 The data set presents number of complaints by month for fixed routes and paratransit trips. Complaints are divided into 13 types, and there is also field *Others* presented. Only complaints for Howard County are given. Data is shown for the period of time from July 2014 to June 2015.   
 Howard County Data Portal OpenHoward. (2015). *Regional Transportation Agency Complaints by Month, Service and Type* [Data set]. Retrieved from https://opendata.howardcountymd.gov/Transportation/Regional-Transportation-Agency-Complaints-by-Month/acgs-q4xp
 
+Data application
+----------------
 I combined the data on Bus ridership with the data on Rail ridership and got a new data set *MTA_Rail_and_RTA_Fixed_Route_Ridership_combined.xlsx*. The process of combination is described in the file *Processing_documentation_ridership.docx*.
 
 The new data set *MTA_Rail_and_RTA_Fixed_Route_Ridership_combined* provides a view to see how bus ridership in Howard County correlates with rail ridership in Maryland. We can look at each route separately and at all routes combined. I find, the best way to present the data could be a graph with months on horizontal axis and ridership on vertical axis, probably in hundreds or even thousands. Different colors for different types of transportation will be most descriptive. Based on the graph we can hypothesize what affects the use of public transportation. For example, we can see a trend through rail and almost all buses ridership. There was a decline in January and February. We can find out if the same trend existed in previous years for rail ridership. We might look deeply in weather forecast and number of working days for these months. Are those numbers a result of reduced working days due to month length and snow days? Or is it a seasonal thing affected by weather? Based on that information future estimates can be drawn. To work more carefully with the data one might want to exclude weekend ridership from *Bus ridership* data (with RTA assistance), as *Rail ridership* is presented only for weekdays.  
